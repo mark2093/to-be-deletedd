@@ -2,9 +2,7 @@
 
 # Description
 
-This Utility creates an excel report Account wise for each Studio.
-
-</br>
+This Utility creates an excel report Account wise for each Studio. </br>
 
 ## Technologies
 
