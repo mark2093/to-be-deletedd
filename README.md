@@ -17,7 +17,8 @@ Python
 
 ```pip install -r requirements.txt```
 
-If you have issues installing dotenv on a virtual env remove dotenv from requirements.txt file and run ```pip3 install python-dotenv``` or ```pip install python-dotenv```
+If you have issues installing dotenv on a virtual env remove dotenv from requirements.txt file and run ```pip3 install python-dotenv``` or 
+```pip install python-dotenv```
 
 ### Create .env file
 
